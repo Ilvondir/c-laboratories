@@ -1,0 +1,16 @@
+Program KALKULATOR
+Dostepne operacje:
+	- dodawanie (+)
+	- odejmowanie (-)
+	- mnozenie (*)
+	- dzielenie (/)
+Wprowadz znak wybranej operacji:
+/
+Wybrano dzielenie (a/b)
+Podaj a:
+2.000000Podaj b:
+3.000000Wynik: 2.000000 / 3.000000 = 0.666667
+
+Konczymy (t/n)?:
+t
+Do zobaczenia!

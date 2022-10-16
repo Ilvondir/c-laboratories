@@ -1,0 +1,4 @@
+Rozwiniecie liczby Pi: 3.14159265
+Rozwiniecie liczby Eulera 1.71
+Rozwiniecie sqrt(2) = 1.41
+Rozwiniecie sqrt(3) = 1.73

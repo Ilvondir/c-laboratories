@@ -1,0 +1,15 @@
+1. Napisz kalkulator który pobierze znak od użytkownika i, przy pomocy instrukcji switch, policzy jedną z sześciu operacji matematycznych: dodawanie(+), odejmowanie(-), mnożenie(*), dzielenie(/),potęgowanie(^) i modulo(%).
+
+2. Napisz i wywołaj funkcję, która na podstawie 3 liczb- boków trójkąta, obliczy jego pole. Niech zweryfikuje najpierw, czy podane odcinki tworzą trójkąt.
+
+3. Napisz funkcję, która oblicza liczbę n!, gdzie n jest liczbą wprowadzoną przez użytkownika.
+
+4. Dany jest zbiór N liczb rzeczywistych. Napisz funkcję pobierającą dane oraz obliczającą i wyświetlającą średnią arytmetyczną tych liczb.
+
+5. Napisz program, który wypisze w konsoli literę E składającą się ze znaków 'E'. Niech program pobierze od użytkownika dwie zmienne- wysokość i szerokość litery, gdzie szerokość musi być większa od 5 i nieparzysta, zaś szerokość większa od 3.
+
+6. Stwórz program, posługując się tablicą wielowymiarą, który wypisze siatkę, szachownicę 8x8. Tablicę wypełnij za pomocą pętli. Pola czarne niech będą pustymi krotkami tabeli, zaś białe, znakiem hashtag.
+
+7. Stwórz program pobierający od użytkownika zdanie oraz obliczający wszystkie występujące w nim znaki(bazując jedynie na małych literach).
+
+8. Wykonaj program, który będzie dodawał dwie macierze 2x2, których ciało będzie wprowadzać użytkownik.

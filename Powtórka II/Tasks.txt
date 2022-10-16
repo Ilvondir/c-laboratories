@@ -1,0 +1,7 @@
+1. Napisz program, który będzie przeliczał wprowadzone zmiennoprzecinkowe liczby dziesiątkowe na system szesnastkowy. W programie wykorzystaj technologię rekurencji funkcji.
+
+2. Napisz program, który policzy sumę i średnią liczb podanych w pliku Zad2.txt. Program ma wyświetlić w konsoli ich ilość, sumę, średnią oraz ich listę z przyporządkowanymi im liczbami porządkowymi.
+
+3. Napisz program, który pobierze od użytkownika zdanie. Zadaniem programu jest zamiana wszystkich liter w nim na wielkie oraz ingerencja w budowę zdania poprzez oddzielnie każdej litery od siebie spacją. Odstępy między wyrazami pozostają bez zmian, czyli całe zdanie przybiera formę ciągu znaków oddzielonych jedną spacją.
+
+4. Napisz program, w którym zdefiniujesz strukturę "wektor". Niech przechowuje ona trzy zmienne zmiennoprzecinkowe x, y, z. Program pobierze od użytkownika współrzędne dwóch wektorów oraz wyśle je do dwóch różnych funkcji, które zwrócą ich iloczyn skalarny i wektorowy. Po wyświetleniu ich iloczynów, niech program pobierze od użytkownika współrzędne kolejnego wektora i sprawdzi, czy wszystkie trzy są współpłaszczyznowe.
